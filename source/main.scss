@@ -1,0 +1,15 @@
+@use 'header';
+@use 'secoes/products.scss';
+@use 'config/reset.scss';
+@use '../source/config/cores.scss';
+
+
+
+body {
+    background-color:   #eee;
+}
+
+
+section {
+    padding: 56px 0;
+}
